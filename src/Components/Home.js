@@ -4,7 +4,7 @@ import pic from '../Images/home_banner1.jpg'
 import Header from './Header'
 
 const Home = () => {
-  
+
   return (
     <MainBlock>
         <Header/>
